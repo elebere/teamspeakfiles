@@ -1,0 +1,19 @@
+2020-11-12 11:09:59.834722|INFO    |VirtualServerBase|1  |listening on 95.179.182.212:9987
+2020-11-14 00:04:46.804327|INFO    |PktHandler    |1  |Dropping client 1348 because of ping timeout 19 0 0
+2020-11-14 13:32:17.842903|INFO    |PktHandler    |1  |Dropping client 2370 because of ping timeout 19 0 0
+2020-11-18 16:25:33.306493|INFO    |PktHandler    |1  |Dropping client 7208 because of ping timeout 19 0 0
+2020-11-19 12:25:13.297056|INFO    |PktHandler    |1  |Dropping client 8217 because of ping timeout 19 0 0
+2020-11-21 04:31:09.350952|INFO    |PktHandler    |1  |Dropping client 10172 because of ping timeout 19 0 0
+2020-11-21 04:56:11.923325|INFO    |PktHandler    |1  |Dropping client 10227 because of ping timeout 19 0 0
+2020-11-21 10:08:59.599542|INFO    |PktHandler    |1  |Dropping client 9460 because of ping timeout 19 0 0
+2020-11-23 00:05:41.105085|INFO    |PktHandler    |1  |Dropping client 12052 because of ping timeout 19 0 0
+2020-11-23 14:45:40.080645|INFO    |PktHandler    |1  |Dropping client 10498 because of ping timeout 19 0 0
+2020-11-23 23:08:44.457025|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2020-11-23 23:08:44.457170|INFO    |PktHandler    |1  |Dropping client 13366 because of resend timeout
+2020-11-26 22:32:16.181510|INFO    |PktHandler    |1  |Dropping client 17073 because of ping timeout 19 0 0
+2020-11-29 13:45:52.858675|INFO    |PktHandler    |1  |Dropping client 19956 because of ping timeout 19 0 0
+2020-12-01 10:36:00.093014|INFO    |PktHandler    |1  |Dropping client 22160 because of ping timeout 19 0 0
+2020-12-01 14:26:03.757804|INFO    |PktHandler    |1  |Dropping client 22424 because of ping timeout 19 0 0
+2020-12-03 11:17:01.846321|INFO    |PktHandler    |1  |Dropping client 22337 because of ping timeout 19 0 0
+2020-12-04 16:40:21.253230|INFO    |PktHandler    |1  |Dropping client 26064 because of ping timeout 19 0 0
+2020-12-05 10:14:40.412253|INFO    |VirtualServerBase|1  |stopped
